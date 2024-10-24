@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Zhaoxi.GameManagement.HttpApi.props" />
+</Project>

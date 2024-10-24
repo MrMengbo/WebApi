@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhaoxi.GameManagement.HttpApi", "Zhaoxi.GameManagement.HttpApi\Zhaoxi.GameManagement.HttpApi.csproj", "{4FEA4939-3139-42FF-BF8D-6A9FDF2714F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhaoxi.GameManagement.Entites", "Zhaoxi.GameManagement.Entites\Zhaoxi.GameManagement.Entites.csproj", "{8AB9EF4C-3205-40C5-A10B-052636EE2782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zhaoxi.GameManagement.EntityFramework", "Zhaoxi.GameManagement.EntityFramework\Zhaoxi.GameManagement.EntityFramework.csproj", "{C43BD401-E0D0-4E7A-BB2A-FDB463E4939F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.GameManagement.Contracts", "Sample.GameManagement.Contracts\Sample.GameManagement.Contracts.csproj", "{DFFFD00B-738A-4E24-A9BF-4FCF952BFCB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FEA4939-3139-42FF-BF8D-6A9FDF2714F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEA4939-3139-42FF-BF8D-6A9FDF2714F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEA4939-3139-42FF-BF8D-6A9FDF2714F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEA4939-3139-42FF-BF8D-6A9FDF2714F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB9EF4C-3205-40C5-A10B-052636EE2782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB9EF4C-3205-40C5-A10B-052636EE2782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB9EF4C-3205-40C5-A10B-052636EE2782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB9EF4C-3205-40C5-A10B-052636EE2782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43BD401-E0D0-4E7A-BB2A-FDB463E4939F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43BD401-E0D0-4E7A-BB2A-FDB463E4939F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43BD401-E0D0-4E7A-BB2A-FDB463E4939F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43BD401-E0D0-4E7A-BB2A-FDB463E4939F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFFFD00B-738A-4E24-A9BF-4FCF952BFCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFFD00B-738A-4E24-A9BF-4FCF952BFCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFFD00B-738A-4E24-A9BF-4FCF952BFCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFFD00B-738A-4E24-A9BF-4FCF952BFCB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7865FFEB-7BE5-44F1-A9C9-EFC921C02948}
+	EndGlobalSection
+EndGlobal

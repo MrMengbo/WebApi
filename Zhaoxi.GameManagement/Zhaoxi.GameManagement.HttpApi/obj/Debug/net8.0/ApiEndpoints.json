@@ -1,0 +1,119 @@
+[
+  {
+    "ContainingType": "Zhaoxi.GameManagement.HttpApi.Controllers.PlayerController",
+    "Method": "CreatePlayer",
+    "RelativePath": "api/player/CreatePlayer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "player",
+        "Type": "Zhaoxi.GameManagement.Entites.Dtos.PlayerForCreationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zhaoxi.GameManagement.HttpApi.Controllers.PlayerController",
+    "Method": "DeletePlayer",
+    "RelativePath": "api/player/DeletePlayer/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zhaoxi.GameManagement.HttpApi.Controllers.PlayerController",
+    "Method": "GetAllPlayers",
+    "RelativePath": "api/player/GetAllPlayers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zhaoxi.GameManagement.HttpApi.Controllers.PlayerController",
+    "Method": "GetPlayerById",
+    "RelativePath": "api/player/GetPlayerById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "PlayerById"
+  },
+  {
+    "ContainingType": "Zhaoxi.GameManagement.HttpApi.Controllers.PlayerController",
+    "Method": "GetPlayerWithCharacters",
+    "RelativePath": "api/player/GetPlayerWithCharacters/{id}/character",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zhaoxi.GameManagement.HttpApi.Controllers.PlayerController",
+    "Method": "GetPlayers",
+    "RelativePath": "api/player/GetPlayers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Zhaoxi.GameManagement.HttpApi.Controllers.PlayerController",
+    "Method": "UpdatePlayer",
+    "RelativePath": "api/player/UpdatePlayer/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "player",
+        "Type": "Zhaoxi.GameManagement.Entites.Dtos.PlayerForUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

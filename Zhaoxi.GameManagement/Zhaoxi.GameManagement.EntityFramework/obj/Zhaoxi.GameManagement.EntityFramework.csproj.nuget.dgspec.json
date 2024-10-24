@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.EntityFramework\\Zhaoxi.GameManagement.EntityFramework.csproj": {}
+  },
+  "projects": {
+    "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Sample.GameManagement.Contracts\\Sample.GameManagement.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Sample.GameManagement.Contracts\\Sample.GameManagement.Contracts.csproj",
+        "projectName": "Sample.GameManagement.Contracts",
+        "projectPath": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Sample.GameManagement.Contracts\\Sample.GameManagement.Contracts.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Sample.GameManagement.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj": {
+                "projectPath": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj",
+        "projectName": "Zhaoxi.GameManagement.Entites",
+        "projectPath": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.EntityFramework\\Zhaoxi.GameManagement.EntityFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.EntityFramework\\Zhaoxi.GameManagement.EntityFramework.csproj",
+        "projectName": "Zhaoxi.GameManagement.EntityFramework",
+        "projectPath": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.EntityFramework\\Zhaoxi.GameManagement.EntityFramework.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.EntityFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Sample.GameManagement.Contracts\\Sample.GameManagement.Contracts.csproj": {
+                "projectPath": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Sample.GameManagement.Contracts\\Sample.GameManagement.Contracts.csproj"
+              },
+              "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj": {
+                "projectPath": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.0-beta.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

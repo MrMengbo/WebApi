@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFFD00B-738A-4E24-A9BF-4FCF952BFCB7}|Sample.GameManagement.Contracts\\Sample.GameManagement.Contracts.csproj|d:\\code_csharp\\zhaoxi.gamemanagement\\sample.gamemanagement.contracts\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFFD00B-738A-4E24-A9BF-4FCF952BFCB7}|Sample.GameManagement.Contracts\\Sample.GameManagement.Contracts.csproj|solutionrelative:sample.gamemanagement.contracts\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEA4939-3139-42FF-BF8D-6A9FDF2714F7}|Zhaoxi.GameManagement.HttpApi\\Zhaoxi.GameManagement.HttpApi.csproj|d:\\code_csharp\\zhaoxi.gamemanagement\\zhaoxi.gamemanagement.httpapi\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEA4939-3139-42FF-BF8D-6A9FDF2714F7}|Zhaoxi.GameManagement.HttpApi\\Zhaoxi.GameManagement.HttpApi.csproj|solutionrelative:zhaoxi.gamemanagement.httpapi\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB9EF4C-3205-40C5-A10B-052636EE2782}|Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj|d:\\code_csharp\\zhaoxi.gamemanagement\\zhaoxi.gamemanagement.entites\\reponsetype\\pagedextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB9EF4C-3205-40C5-A10B-052636EE2782}|Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj|solutionrelative:zhaoxi.gamemanagement.entites\\reponsetype\\pagedextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB9EF4C-3205-40C5-A10B-052636EE2782}|Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj|d:\\code_csharp\\zhaoxi.gamemanagement\\zhaoxi.gamemanagement.entites\\reponsetype\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB9EF4C-3205-40C5-A10B-052636EE2782}|Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj|solutionrelative:zhaoxi.gamemanagement.entites\\reponsetype\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB9EF4C-3205-40C5-A10B-052636EE2782}|Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj|d:\\code_csharp\\zhaoxi.gamemanagement\\zhaoxi.gamemanagement.entites\\reponsetype\\pagedmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB9EF4C-3205-40C5-A10B-052636EE2782}|Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj|solutionrelative:zhaoxi.gamemanagement.entites\\reponsetype\\pagedmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43BD401-E0D0-4E7A-BB2A-FDB463E4939F}|Zhaoxi.GameManagement.EntityFramework\\Zhaoxi.GameManagement.EntityFramework.csproj|d:\\code_csharp\\zhaoxi.gamemanagement\\zhaoxi.gamemanagement.entityframework\\repositories\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43BD401-E0D0-4E7A-BB2A-FDB463E4939F}|Zhaoxi.GameManagement.EntityFramework\\Zhaoxi.GameManagement.EntityFramework.csproj|solutionrelative:zhaoxi.gamemanagement.entityframework\\repositories\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB9EF4C-3205-40C5-A10B-052636EE2782}|Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj|d:\\code_csharp\\zhaoxi.gamemanagement\\zhaoxi.gamemanagement.entites\\requestfeatures\\playerparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB9EF4C-3205-40C5-A10B-052636EE2782}|Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj|solutionrelative:zhaoxi.gamemanagement.entites\\requestfeatures\\playerparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFFFD00B-738A-4E24-A9BF-4FCF952BFCB7}|Sample.GameManagement.Contracts\\Sample.GameManagement.Contracts.csproj|d:\\code_csharp\\zhaoxi.gamemanagement\\sample.gamemanagement.contracts\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFFFD00B-738A-4E24-A9BF-4FCF952BFCB7}|Sample.GameManagement.Contracts\\Sample.GameManagement.Contracts.csproj|solutionrelative:sample.gamemanagement.contracts\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB9EF4C-3205-40C5-A10B-052636EE2782}|Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj|d:\\code_csharp\\zhaoxi.gamemanagement\\zhaoxi.gamemanagement.entites\\requestfeatures\\querystringparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB9EF4C-3205-40C5-A10B-052636EE2782}|Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj|solutionrelative:zhaoxi.gamemanagement.entites\\requestfeatures\\querystringparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43BD401-E0D0-4E7A-BB2A-FDB463E4939F}|Zhaoxi.GameManagement.EntityFramework\\Zhaoxi.GameManagement.EntityFramework.csproj|d:\\code_csharp\\zhaoxi.gamemanagement\\zhaoxi.gamemanagement.entityframework\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43BD401-E0D0-4E7A-BB2A-FDB463E4939F}|Zhaoxi.GameManagement.EntityFramework\\Zhaoxi.GameManagement.EntityFramework.csproj|solutionrelative:zhaoxi.gamemanagement.entityframework\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C43BD401-E0D0-4E7A-BB2A-FDB463E4939F}|Zhaoxi.GameManagement.EntityFramework\\Zhaoxi.GameManagement.EntityFramework.csproj|d:\\code_csharp\\zhaoxi.gamemanagement\\zhaoxi.gamemanagement.entityframework\\gamemanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43BD401-E0D0-4E7A-BB2A-FDB463E4939F}|Zhaoxi.GameManagement.EntityFramework\\Zhaoxi.GameManagement.EntityFramework.csproj|solutionrelative:zhaoxi.gamemanagement.entityframework\\gamemanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AB9EF4C-3205-40C5-A10B-052636EE2782}|Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj|d:\\code_csharp\\zhaoxi.gamemanagement\\zhaoxi.gamemanagement.entites\\dtos\\playerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AB9EF4C-3205-40C5-A10B-052636EE2782}|Zhaoxi.GameManagement.Entites\\Zhaoxi.GameManagement.Entites.csproj|solutionrelative:zhaoxi.gamemanagement.entites\\dtos\\playerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PagedMetaData.cs",
+              "DocumentMoniker": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\ReponseType\\PagedMetaData.cs",
+              "RelativeDocumentMoniker": "Zhaoxi.GameManagement.Entites\\ReponseType\\PagedMetaData.cs",
+              "ToolTip": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\ReponseType\\PagedMetaData.cs",
+              "RelativeToolTip": "Zhaoxi.GameManagement.Entites\\ReponseType\\PagedMetaData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:06:23.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\ReponseType\\PagedList.cs",
+              "RelativeDocumentMoniker": "Zhaoxi.GameManagement.Entites\\ReponseType\\PagedList.cs",
+              "ToolTip": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\ReponseType\\PagedList.cs",
+              "RelativeToolTip": "Zhaoxi.GameManagement.Entites\\ReponseType\\PagedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:06:15.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagedExtensions.cs",
+              "DocumentMoniker": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\ReponseType\\PagedExtensions.cs",
+              "RelativeDocumentMoniker": "Zhaoxi.GameManagement.Entites\\ReponseType\\PagedExtensions.cs",
+              "ToolTip": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\ReponseType\\PagedExtensions.cs",
+              "RelativeToolTip": "Zhaoxi.GameManagement.Entites\\ReponseType\\PagedExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:06:15.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerParameter.cs",
+              "DocumentMoniker": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\RequestFeatures\\PlayerParameter.cs",
+              "RelativeDocumentMoniker": "Zhaoxi.GameManagement.Entites\\RequestFeatures\\PlayerParameter.cs",
+              "ToolTip": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\RequestFeatures\\PlayerParameter.cs",
+              "RelativeToolTip": "Zhaoxi.GameManagement.Entites\\RequestFeatures\\PlayerParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:40:59.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QueryStringParameters.cs",
+              "DocumentMoniker": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\RequestFeatures\\QueryStringParameters.cs",
+              "RelativeDocumentMoniker": "Zhaoxi.GameManagement.Entites\\RequestFeatures\\QueryStringParameters.cs",
+              "ToolTip": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\RequestFeatures\\QueryStringParameters.cs",
+              "RelativeToolTip": "Zhaoxi.GameManagement.Entites\\RequestFeatures\\QueryStringParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:38:05.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameManagementDbContext.cs",
+              "DocumentMoniker": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.EntityFramework\\GameManagementDbContext.cs",
+              "RelativeDocumentMoniker": "Zhaoxi.GameManagement.EntityFramework\\GameManagementDbContext.cs",
+              "ToolTip": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.EntityFramework\\GameManagementDbContext.cs",
+              "RelativeToolTip": "Zhaoxi.GameManagement.EntityFramework\\GameManagementDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:50:05.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.EntityFramework\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Zhaoxi.GameManagement.EntityFramework\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.EntityFramework\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Zhaoxi.GameManagement.EntityFramework\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:46:56.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerDto.cs",
+              "DocumentMoniker": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\Dtos\\PlayerDto.cs",
+              "RelativeDocumentMoniker": "Zhaoxi.GameManagement.Entites\\Dtos\\PlayerDto.cs",
+              "ToolTip": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.Entites\\Dtos\\PlayerDto.cs",
+              "RelativeToolTip": "Zhaoxi.GameManagement.Entites\\Dtos\\PlayerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:00:30.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Sample.GameManagement.Contracts\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Sample.GameManagement.Contracts\\IBaseRepository.cs",
+              "ToolTip": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Sample.GameManagement.Contracts\\IBaseRepository.cs",
+              "RelativeToolTip": "Sample.GameManagement.Contracts\\IBaseRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:41:47.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPlayerRepository.cs",
+              "DocumentMoniker": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Sample.GameManagement.Contracts\\IPlayerRepository.cs",
+              "RelativeDocumentMoniker": "Sample.GameManagement.Contracts\\IPlayerRepository.cs",
+              "ToolTip": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Sample.GameManagement.Contracts\\IPlayerRepository.cs",
+              "RelativeToolTip": "Sample.GameManagement.Contracts\\IPlayerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:28:03.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerRepository.cs",
+              "DocumentMoniker": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.EntityFramework\\Repositories\\PlayerRepository.cs",
+              "RelativeDocumentMoniker": "Zhaoxi.GameManagement.EntityFramework\\Repositories\\PlayerRepository.cs",
+              "ToolTip": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.EntityFramework\\Repositories\\PlayerRepository.cs",
+              "RelativeToolTip": "Zhaoxi.GameManagement.EntityFramework\\Repositories\\PlayerRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:52:32.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.HttpApi\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Zhaoxi.GameManagement.HttpApi\\Controllers\\PlayerController.cs",
+              "ToolTip": "D:\\Code_Csharp\\Zhaoxi.GameManagement\\Zhaoxi.GameManagement.HttpApi\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "Zhaoxi.GameManagement.HttpApi\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:40:41.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
